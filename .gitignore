@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+!/src/main/resources/config/licensing-service-dev.properties
+!/src/main/resources/config/licensing-service-prod.properties
