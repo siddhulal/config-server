@@ -10,7 +10,7 @@ spring:
           search-locations: classpath:/config
 
 server:
-  port: 8071
+  port: 8081
 
 #encrypt:
 #  key: fje83Ki8403Iod87dne7Yjsl3THueh48jfuO9j4U2hf64Lo
