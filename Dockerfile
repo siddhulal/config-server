@@ -1,5 +1,5 @@
 # ---- Build Stage ----
-FROM maven:3.8.6-openjdk-21 AS build
+FROM maven:3.9.9-amazoncorretto-8-al2023 AS build
 WORKDIR /app
 # Copy Maven files and source code
 COPY pom.xml .
